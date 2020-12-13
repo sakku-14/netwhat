@@ -4,6 +4,8 @@ What is an IP address
 ◦ What is a Netmask
 ◦ What is the subnet of an IP with Netmask
 ◦ What is the broadcast address of a subnet
+■broadcast addressについて(ホスト部のビットが１<=>ネットワークアドレスはホスト部のビットが０＋ループバックアドレスはホスト部のビット一桁目が１でそれ以外０)
+https://www.infraexpert.com/study/ip4.html
 ◦ What are the different ways to represent an ip address with the Netmask
 ◦ What are the differences between public and private IPs
 ◦ What is a class of IP addresses
