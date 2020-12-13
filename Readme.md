@@ -14,7 +14,12 @@ https://www.infraexpert.com/study/ip4.html
 https://thinkit.co.jp/story/2015/03/09/5713
 
 ◦ What are the different ways to represent an ip address with the Netmask
+■there are 3 ways. network, broadcast and roopback address
+
 ◦ What are the differences between public and private IPs
+■ip addressの基礎知識(クラスフルアドレス・サブネットマスク＆グローバルアドレス・プライベートアドレス)
+https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6
+
 ◦ What is a class of IP addresses
 ◦ What is TCP
 ◦ What is UDP
