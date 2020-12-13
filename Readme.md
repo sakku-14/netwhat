@@ -24,8 +24,10 @@ https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6
 ■class a(8-24:0---), b(16-16:10--), c(24-8:110-), d(1110), e(1111)
 
 ◦ What is TCP
-■
+■わかりそうでわからない(TCP/UDP)
+https://wa3.i-3-i.info/word110.html
 ◦ What is UDP
+
 ◦ What are the network layers
 ◦ What is the OSI model
 ◦ What is a DHCP server and the DHCP protocol
