@@ -21,7 +21,10 @@ https://thinkit.co.jp/story/2015/03/09/5713
 https://qiita.com/mogulla3/items/efb4c9328d82d24d98e6
 
 ◦ What is a class of IP addresses
+■class a(8-24:0---), b(16-16:10--), c(24-8:110-), d(1110), e(1111)
+
 ◦ What is TCP
+■
 ◦ What is UDP
 ◦ What are the network layers
 ◦ What is the OSI model
