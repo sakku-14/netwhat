@@ -34,6 +34,8 @@ https://www.infraexpert.com/study/networking3.html
 
 ◦ What is the OSI model
 ◦ What is a DHCP server and the DHCP protocol
+■about DHCP server and protocol
+https://www.infraexpert.com/study/tcpip13.html
 ◦ What is a DNS server and the DNS protocol
 ◦ What are the rules to make 2 devices communicate using IP addresses
 ◦ How does routing work with IP
